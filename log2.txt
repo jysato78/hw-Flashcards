@@ -1,0 +1,1 @@
+{"front":"charles darwin is the father of evolution.","back":"charles darwin"};{"front":"a botanist studies plants","back":"botanist"};
